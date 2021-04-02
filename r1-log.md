@@ -1,10 +1,10 @@
 # #100DaysOfCode Log - Round 1 - Winnie Chou
 
-The log of my #100DaysOfCode challenge. Started on Saturday, March 27, 2021.
+The log of my #100DaysOfCode challenge. Started on Thursday, April 1, 2021.
 
 ## Log
 
 ### R1D1 
-<!-- Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com -->
+Completed a Deck of Cards App with CSS formatting and using <a href="http://deckofcardsapi.com/">Deck of Cards API</a>.
 
 ### R1D2

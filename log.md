@@ -1,28 +1,9 @@
 # 100 Days Of Code - Log
 
-<!-- ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Thursday, April 1, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Built Deck of Cards app that cemented understanding of JS asynchronicity using callbacks and async/await. App also focused on CSS formatting and vanilla JS for DOM manipulation. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:  Pretty comfortable with async and await. Most of efforts were around CSS and formatting; learning about transform and positioning. Still not strong on flexbox (not used) positioning so will continue to focus on CSS in other projects. Also, need to look at other ways to make requests (i.e., Fetch, HTTP.get, etc.), not just using axios. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
-
-
-### Day 1: Saturday, March 27, 2021
-
-**Today's Progress**: 
-
-**Thoughts**:  
-
-**Link(s) to work**: 
+**Link(s) to work**: Deck of Cards API (https://github.com/Win-C/deck-of-cards)

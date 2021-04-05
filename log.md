@@ -7,3 +7,32 @@
 **Thoughts**:  Pretty comfortable with async and await. Most of efforts were around CSS and formatting; learning about transform and positioning. Still not strong on flexbox (not used) positioning so will continue to focus on CSS in other projects. Also, need to look at other ways to make requests (i.e., Fetch, HTTP.get, etc.), not just using axios. 
 
 **Link(s) to work**: Deck of Cards API (https://github.com/Win-C/deck-of-cards)
+
+### Day 2: Friday, April 2, 2021
+
+**Today's Progress**: Built Timer app that cemented understanding of built-in React hooks: useState, useEffect and useRef. App handles
+- variable states with useState
+- side effects with useEffect
+- timerId persists across renders with useRef
+
+Timer app counts down from 60 seconds with ability to start/stop and reset the timer. App also focused on CSS formatting. 
+
+**Thoughts**:  Pretty comfortable with useState but still need to continue to practice useEffect and useRef. Still spend considerable time on basic CSS formatting; learning about positioning. Need to continue to play with formatting, possibly returning to this exercise to add a more visually appealing countdown interface and inclusion of hours and minutes. 
+
+**Link(s) to work**: Timer app (https://github.com/Win-C/timer)
+
+### Day 3: Saturday, April 3, 2021
+
+**Today's Progress**: Built Pokemon app that refreshed knowledge of props and component design in React.  
+
+**Thoughts**:  Pretty comfortable with using React and basic component design. Will need to practice larger component design breakdown and passing down functions. 
+
+**Link(s) to work**: Pokemon App (https://github.com/Win-C/pokemon-app)
+
+### Day 4: Sunday, April 4, 2021
+
+**Today's Progress**: Continued to work on Pokemon app adding a Pokemon battle component that generates random hands between two players, calculating a winner based on total experience per hand. Added additional CSS formatting
+
+**Thoughts**:  Still a few CSS formatting follow ups to improve layout. Add Pokemon API calls to generate initial Pokemon list for players, practicing call requests and useEffect hooks. 
+
+**Link(s) to work**: Pokemon App (https://github.com/Win-C/pokemon-app)

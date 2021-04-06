@@ -36,3 +36,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**:  Still a few CSS formatting follow ups to improve layout. Add Pokemon API calls to generate initial Pokemon list for players, practicing call requests and useEffect hooks. 
 
 **Link(s) to work**: Pokemon App (https://github.com/Win-C/pokemon-app)
+
+### Day 5: Monday, April 5, 2021
+
+**Today's Progress**: Focused today on algorithms in JavaScript, practicing using two pointers and reviewing last week's lesson on sliding windows. 
+
+**Thoughts**:  Feeling more confident with sliding windows but still need to practice more problems with multiple pointers. Need to also practice writing out pseudocode steps and multiple cases including edge cases before coding. 
+
+**Link(s) to work**: Two Pointer Algos (https://github.com/Win-C/two-pointers-algos)

@@ -44,3 +44,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**:  Feeling more confident with sliding windows but still need to practice more problems with multiple pointers. Need to also practice writing out pseudocode steps and multiple cases including edge cases before coding. 
 
 **Link(s) to work**: Two Pointer Algos (https://github.com/Win-C/two-pointers-algos)
+
+### Day 6: Tuesday, April 6, 2021
+
+**Today's Progress**: Continued to practice algorithms in JavaScript, focusing on applying the two pointers technicque and sliding windows. 
+
+**Thoughts**:  Forgot that variables can be used to store information, incrementing or decrementing as needed (i.e., charMatched variable in anagrams). This was helpful so that only one hashMap was needed to store the char frequency in the anagram pattern. 
+
+**Link(s) to work**: Anagram Strings (https://github.com/Win-C/two-pointers-algos/blob/main/anagrams.js)

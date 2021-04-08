@@ -52,3 +52,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**:  Forgot that variables can be used to store information, incrementing or decrementing as needed (i.e., charMatched variable in anagrams). This was helpful so that only one hashMap was needed to store the char frequency in the anagram pattern. 
 
 **Link(s) to work**: Anagram Strings (https://github.com/Win-C/two-pointers-algos/blob/main/anagrams.js)
+
+### Day 7: Wednesday, April 7, 2021
+
+**Today's Progress**: Reviewed understanding of Node's built-in file system module with promises. Built program that can read and write from files and webpages provided in the terminal. 
+
+**Thoughts**:  Continue to be amazed by the power of Node.js and the ability to read and write files. Need to look into ability to write content from multiple sources into a single file. Likely will need to learn the callback API to use the createWriteStream method. 
+
+**Link(s) to work**: Node file system module (https://github.com/Win-C/node-intro)

@@ -60,3 +60,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**:  Continue to be amazed by the power of Node.js and the ability to read and write files. Need to look into ability to write content from multiple sources into a single file. Likely will need to learn the callback API to use the createWriteStream method. 
 
 **Link(s) to work**: Node file system module (https://github.com/Win-C/node-intro)
+
+### Day 8: Thursday, April 8, 2021
+
+**Today's Progress**: Continued to work in Node.js, refreshing knowledge of the environment including Node's interactive REPL. Built program that can randomly generate text based on passed in content. 
+
+**Thoughts**:  Really enjoying building in Node.js and looking forward to follow-on features / build of this program. Will also follow up with tests and maybe a frontend. 
+
+**Link(s) to work**: Markov chain text generator (https://github.com/Win-C/markov-machine)

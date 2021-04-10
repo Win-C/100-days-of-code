@@ -68,3 +68,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**:  Really enjoying building in Node.js and looking forward to follow-on features / build of this program. Will also follow up with tests and maybe a frontend. 
 
 **Link(s) to work**: Markov chain text generator (https://github.com/Win-C/markov-machine)
+
+### Day 9: Friday, April 9, 2021
+
+**Today's Progress**: Built a simple goal tracker app using vanilla JS and Bootstrap for some light formatting. Refresh of HTML forms and vanilla JS to manipulate and update the DOM.  
+
+**Thoughts**:  Forgot alot of vanilla JS and forms. This was a good refresh. Lots still left to do for formatting. Need to recall basic CSS for a simple, good layout that can be quickly be built. 
+
+**Link(s) to work**: Simple goal tracker (https://github.com/Win-C/goal-tracker)

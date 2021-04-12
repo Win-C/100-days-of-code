@@ -84,3 +84,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**:  Took awhile to get back up to speed to understand the app. Will focus next couple of days to clean up frontend and use all of the backend routes. Need to also be able to upload and download from AWS S3. Lots of work to do but it will be fun!
 
 **Link(s) to work**: ShareBnB fullstack app (https://github.com/Win-C/sharebnb-frontend)
+
+### Day 11: Sunday, April 11, 2021
+
+**Today's Progress**: Cleaned up frontend for fullstack ShareBnB app. Organized React components into separate folders. Fixed navigation bar to show with smaller screen sizes. 
+
+**Thoughts**:  Took awhile to get back up to speed to understand the app. Will focus next couple of days to clean up frontend and use all of the backend routes. Need to also be able to upload and download from AWS S3. Lots of work to do but it will be fun!
+
+**Link(s) to work**: ShareBnB fullstack deployed app (http://winnie-sharebnb.surge.sh/)

@@ -92,3 +92,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**:  Took awhile to figure things out. Accidentally used cheat sheet for deploying an Express/Node backend using Heroku. Had to use git reset ~Head command to reverse commits. Also, had to include buildpack for Heroku/python. Otherwise, deployment was pretty straight forward.
 
 **Link(s) to work**: ShareBnB fullstack deployed app (http://winnie-sharebnb.surge.sh/)
+
+### Day 12: Monday, April 12, 2021
+
+**Today's Progress**: Focused on data structures and algorithms today. Reviewing LinkedLists and fast/slow pointers. Starting on Merge Interval patterns.
+
+**Thoughts**: Slow start to algorithms work today. Need to review sliding windows and make sure retaining patterns. 
+
+**Link(s) to work**: Rearrange LinkedList (https://github.com/Win-C/daily-programming-challenges/blob/main/rearrangeLinkedList.js)

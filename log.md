@@ -100,3 +100,19 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**: Slow start to algorithms work today. Need to review sliding windows and make sure retaining patterns. 
 
 **Link(s) to work**: Rearrange LinkedList (https://github.com/Win-C/daily-programming-challenges/blob/main/rearrangeLinkedList.js)
+
+### Day 13: Tuesday, April 13, 2021
+
+**Today's Progress**: Focused on frontend React today. Built a simple coin flip app that uses useState and focused on component design
+
+**Thoughts**: Good refresh on thinking through functional component design that supports reusability.
+
+**Link(s) to work**: Coin Flip App (https://github.com/Win-C/coin-flip-app)
+
+### Day 14: Wednesday, April 14, 2021
+
+**Today's Progress**: Focused on backend today. Quick refresh of Express route handling and some Jest tests written for Markov Text Generator.
+
+**Thoughts**: Need to take the time to think through test cases and practice writing tests using Jest more. Forgot alot about error handling for Express - need to review notes. 
+
+**Link(s) to work**: Express Calc App (https://github.com/Win-C/express-calc)

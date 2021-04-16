@@ -116,3 +116,13 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**: Need to take the time to think through test cases and practice writing tests using Jest more. Forgot alot about error handling for Express - need to review notes. 
 
 **Link(s) to work**: Express Calc App (https://github.com/Win-C/express-calc)
+
+### Day 15: Thursday, April 15, 2021
+
+**Today's Progress**: Focused on data structures and algorithms today. Learned QuickSort Algorithm with O(N) time on average and O(N^2) in worst case scenario. Refreshed understanding of binary tree DFS and BFS. 
+
+**Thoughts**: Need to practice more sorting algorithms and tree traversals so this is more intuitive.
+
+**Link(s) to work**: 
+- QuickSort Algorithm (https://github.com/Win-C/daily-programming-challenges/blob/main/kthSmallestElement.js)
+- Binary Tree - Depth First Search with Recursion (https://github.com/Win-C/daily-programming-challenges/blob/main/sumDigitPathsTree.js)

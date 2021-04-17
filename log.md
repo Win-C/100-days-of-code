@@ -126,3 +126,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Link(s) to work**: 
 - QuickSort Algorithm (https://github.com/Win-C/daily-programming-challenges/blob/main/kthSmallestElement.js)
 - Binary Tree - Depth First Search with Recursion (https://github.com/Win-C/daily-programming-challenges/blob/main/sumDigitPathsTree.js)
+
+### Day 16: Friday, April 16, 2021
+
+**Today's Progress**: Did an hour of DS & Algos. 
+
+**Thoughts**: Need to spend tomorrow on tree traversals and matrices. Lots to learn and focus on to get comfortable. Review common problem solving approaches. 
+
+**Link(s) to work**: Tree traversal of BFS (https://github.com/Win-C/daily-programming-challenges/blob/main/leftValsTree.js)

@@ -134,3 +134,14 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**: Need to spend tomorrow on tree traversals and matrices. Lots to learn and focus on to get comfortable. Review common problem solving approaches. 
 
 **Link(s) to work**: Tree traversal of BFS (https://github.com/Win-C/daily-programming-challenges/blob/main/leftValsTree.js)
+
+### Day 17: Saturday, April 17, 2021
+
+**Today's Progress**: Another data structures & algorithms day. Focused on merging intervals including using a heap. Learned about Heap from the collections JS library. Also solved a couple of algo problems seen last week. 
+
+**Thoughts**:  Still lots of ground to cover with DS & algos. Good refresh today. Tomorrow should focus on trees - should be more comfortable traversing / recursing. 
+
+**Link(s) to work**: 
+- Binary Tree to Linked List (https://github.com/Win-C/daily-programming-challenges/blob/main/binaryTreeToLL.js)
+- Largest Island Area (https://github.com/Win-C/daily-programming-challenges/blob/main/largestIslandArea.js)
+- Number of Islands (https://github.com/Win-C/daily-programming-challenges/blob/main/numberOfIslands.js)

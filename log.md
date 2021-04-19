@@ -145,3 +145,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 - Binary Tree to Linked List (https://github.com/Win-C/daily-programming-challenges/blob/main/binaryTreeToLL.js)
 - Largest Island Area (https://github.com/Win-C/daily-programming-challenges/blob/main/largestIslandArea.js)
 - Number of Islands (https://github.com/Win-C/daily-programming-challenges/blob/main/numberOfIslands.js)
+
+### Day 18: Sunday, April 18, 2021
+
+**Today's Progress**: Learned and applied cyclic sort pattern to solve algo problems. Also, reviewed other patterns: two pointers and slow and fast pointers. 
+
+**Thoughts**: Need to continue to practice algo pattern recognition and solving problems. But pretty happy with progress over the past few weeks. 
+
+**Link(s) to work**: Find K Smallest Positive Missing Numbers (https://github.com/Win-C/daily-programming-challenges/blob/main/findMissingNums.js)

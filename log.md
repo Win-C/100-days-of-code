@@ -153,3 +153,15 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**: Need to continue to practice algo pattern recognition and solving problems. But pretty happy with progress over the past few weeks. 
 
 **Link(s) to work**: Find K Smallest Positive Missing Numbers (https://github.com/Win-C/daily-programming-challenges/blob/main/findMissingNums.js)
+
+### Day 19: Monday, April 19, 2021
+
+**Today's Progress**: Finished reviewing two pointer pattern approaches. Learning about reversing linkedlists. Tackled the trapped rainwater problem. Still shaky on binary trees. 
+
+**Thoughts**: Adding to the list of topics to review: 
+- binary search
+- tree traversals
+
+**Link(s) to work**: 
+- Find largest tree sum path for binary tree (https://github.com/Win-C/daily-programming-challenges/blob/main/largestTreeSumPath.js)
+- Find Island Perimeter (https://github.com/Win-C/daily-programming-challenges/blob/main/islandShapePerimeter.js)

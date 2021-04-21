@@ -165,3 +165,13 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Link(s) to work**: 
 - Find largest tree sum path for binary tree (https://github.com/Win-C/daily-programming-challenges/blob/main/largestTreeSumPath.js)
 - Find Island Perimeter (https://github.com/Win-C/daily-programming-challenges/blob/main/islandShapePerimeter.js)
+
+### Day 20: Tuesday, April 20, 2021
+
+**Today's Progress**: DS & Algo day where I focused on reversing linkedlists and binary tree traversal with breadth-first-search (BFS).
+
+**Thoughts**: Starting to get comfortable with BFS. Still need to practice more linkedlist reversals.
+
+**Link(s) to work**: 
+- Reverse Alternate 'k' Sized Sublists (https://github.com/Win-C/daily-programming-challenges/blob/main/reverseAltSubList.js)
+- Rotate LinkedList by 'k' nodes (https://github.com/Win-C/daily-programming-challenges/blob/main/rotateLinkedList.js)

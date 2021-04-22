@@ -175,3 +175,13 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Link(s) to work**: 
 - Reverse Alternate 'k' Sized Sublists (https://github.com/Win-C/daily-programming-challenges/blob/main/reverseAltSubList.js)
 - Rotate LinkedList by 'k' nodes (https://github.com/Win-C/daily-programming-challenges/blob/main/rotateLinkedList.js)
+
+### Day 21: Wednesday, April 21, 2021
+
+**Today's Progress**: DS & Algo day where I refreshed reversing linkedlists and tackled the trapped rainwater algorithm today - was able to quickly tackle the brute force method, hash tables took longer and couldn't figure out pointers without help. 
+
+**Thoughts**: Need to continue to review LinkedList reversals. Pointers are not yet intuitive so need to practice these problems. 
+
+**Link(s) to work**: 
+- Trapped Rainwater (https://github.com/Win-C/daily-programming-challenges/blob/main/rainCatcherWithPointers.js)
+- Reverse Sublist LinkedList (https://github.com/Win-C/daily-programming-challenges/blob/main/reverseSubList.js)

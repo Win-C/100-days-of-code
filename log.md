@@ -185,3 +185,11 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Link(s) to work**: 
 - Trapped Rainwater (https://github.com/Win-C/daily-programming-challenges/blob/main/rainCatcherWithPointers.js)
 - Reverse Sublist LinkedList (https://github.com/Win-C/daily-programming-challenges/blob/main/reverseSubList.js)
+
+### Day 22: Thursday, April 22, 2021
+
+**Today's Progress**: Made good progress on BFS and now learning DFS recursively. Will be tackling recursion and DP tomorrow. 
+
+**Thoughts**: Slowly getting comfortable with recursion. 
+
+**Link(s) to work**: Matrix Search Sequel (https://github.com/Win-C/daily-programming-challenges/blob/main/matrixSearchSequel.js)

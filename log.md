@@ -193,3 +193,20 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Thoughts**: Slowly getting comfortable with recursion. 
 
 **Link(s) to work**: Matrix Search Sequel (https://github.com/Win-C/daily-programming-challenges/blob/main/matrixSearchSequel.js)
+
+### Day 23: Friday, April 23, 2021
+
+**Today's Progress**: Tackled binary trees, digging into DFS with recursion. 
+
+**Thoughts**: Taken down by trees... Got stuck storing a global count variable while determining univalue subtrees. Realized that a global variable can be created using a nested recursive function or by making a class. Also, there was no need to create a parent node value variable since the TreeNode class contains the value. 
+
+**Link(s) to work**: Count Num Univalue Trees (https://github.com/Win-C/daily-programming-challenges/blob/main/numUnivalTrees.js)
+
+### Day 24: Saturday, April 24, 2021
+
+**Today's Progress**: Reviewed trees and got more comfortable with DFS recursion. Started learning dynamic programming approach to problems. This will be a meaty topic. Also, reviewed two pointers with Dutch national flag problem. 
+
+**Thoughts**: Need to practice more tree algorithms to make this more intuitive. 
+
+**Link(s) to work**: 
+- Dutch National Flag Algorithm (https://github.com/Win-C/daily-programming-challenges/blob/main/dutchNationalFlag.js)

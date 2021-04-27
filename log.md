@@ -210,3 +210,12 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 
 **Link(s) to work**: 
 - Dutch National Flag Algorithm (https://github.com/Win-C/daily-programming-challenges/blob/main/dutchNationalFlag.js)
+
+### Day 26: Monday, April 26, 2021
+
+**Today's Progress**: Tackled DP approach and solved straightforward matrix problems today. Again, struggled with DFS recursive tree problem.
+
+**Thoughts**:  DP problems will take longer to learn and need to continue to practice tree problems so that I can solve these within 20-25min for technical interviews. 
+
+**Link(s) to work**: 
+- Profitable Job Matching (https://github.com/Win-C/daily-programming-challenges/blob/main/jobMatching.js)

@@ -219,3 +219,12 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 
 **Link(s) to work**: 
 - Profitable Job Matching (https://github.com/Win-C/daily-programming-challenges/blob/main/jobMatching.js)
+
+### Day 26: Tuesday, April 27, 2021
+
+**Today's Progress**: One hour focus on data structures and algorithms: 2 easy and 1 medium problems. 
+
+**Thoughts**:  Got stuck on the problem below. Initially thought it would be a simple sliding window problem but had to result to using a hash table to store sums instead. 
+
+**Link(s) to work**: 
+- Number of Sublists with Target Sum (https://github.com/Win-C/daily-programming-challenges/blob/main/numSubListWithTargetSum.js)

@@ -228,3 +228,13 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 
 **Link(s) to work**: 
 - Number of Sublists with Target Sum (https://github.com/Win-C/daily-programming-challenges/blob/main/numSubListWithTargetSum.js)
+
+### Day 27: Wednesday, April 28, 2021
+
+**Today's Progress**: Reviewed JS tricky parts today including closures, databases / SQL queries, and did an hour of algorithms. 
+
+**Thoughts**: Really enjoyed recalling JS tricky parts and databases. Will look at doing more exercises now that I've reviewed the concepts. 
+
+**Link(s) to work**: 
+- Largest Difference Between Node and Descendants (https://github.com/Win-C/daily-programming-challenges/blob/main/largestDiffNodeDescendant.js)
+- Closures (https://github.com/Win-C/daily-programming-challenges/blob/main/closures.js)

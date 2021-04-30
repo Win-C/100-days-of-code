@@ -238,3 +238,13 @@ Timer app counts down from 60 seconds with ability to start/stop and reset the t
 **Link(s) to work**: 
 - Largest Difference Between Node and Descendants (https://github.com/Win-C/daily-programming-challenges/blob/main/largestDiffNodeDescendant.js)
 - Closures (https://github.com/Win-C/daily-programming-challenges/blob/main/closures.js)
+
+### Day 28: Thursday, April 29, 2021
+
+**Today's Progress**: Reviewed RDBMS today - focusing on schemas including constraints and relationships as well as light review of SQL queries. Also, completed 1 hour of algorithms today. 
+
+**Thoughts**: Was thrown off by string rotation earlier today and didn't know how to approach this problem on binarysearch.com but reviewed the approach in cracking the code which had a simple approach: concatenate the same string (s1s1) twice and check if it includes the second string (s2). 
+
+**Link(s) to work**: 
+- String Rotation (https://github.com/Win-C/data-structures-and-algos/blob/main/arrays-and-strings/stringRotation.js)
+- Ancient Astronaut Theory (https://github.com/Win-C/daily-programming-challenges/blob/main/ancientAstronautTheory.js)
